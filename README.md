@@ -42,4 +42,5 @@ If it's a Flask/Streamlit-based web app:- python app.py
 4️⃣ The system returns a list of recommended movies.
 
 
+![MOVIE](https://github.com/user-attachments/assets/a2d573cc-e7e2-4285-ab44-feb545d16e67)
 
